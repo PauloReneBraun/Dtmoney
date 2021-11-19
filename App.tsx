@@ -1,3 +1,4 @@
+import styled from "styled-components";
 import "./App.css";
 
 export function App() {
