@@ -10,7 +10,7 @@ export function App() {
     <div className="App">
       <h1 className="title">
         Hello World
-        <button></button>
+        <button>Salavr</button>
         </Title>
     </div>
   );
