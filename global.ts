@@ -1,1 +1,1 @@
-import {} from "styled-components";
+import { createGlobalStyle } from "styled-components";
