@@ -12,5 +12,6 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     background : var(--background);
+    -webkit-front-smoothing: antialiased ;
   }
 `;
