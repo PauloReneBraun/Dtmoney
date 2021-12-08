@@ -10,6 +10,10 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box
   }
 
+  html {
+    @media (max-width: 1070px)
+  }
+
   body {
     background : var(--background);
     -webkit-front-smoothing: antialiased ;
