@@ -35,6 +35,10 @@ const GlobalStyle = createGlobalStyle`
     -webkit-front-smoothing: antialiased ;
   }
 
+  body, input ,textarea, button {
+    
+  }
+
   button {
     cursor: pointer;
   }
