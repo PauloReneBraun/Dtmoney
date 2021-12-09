@@ -36,7 +36,7 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body, input ,textarea, button {
-    
+    font-family: 'Poppins', sans-serif;
   }
 
   button {
