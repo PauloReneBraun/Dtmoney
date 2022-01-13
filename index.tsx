@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header>
-      <img src="" alt="" />
+      <img src="" alt="dt money" />
     </header>
   );
 }
