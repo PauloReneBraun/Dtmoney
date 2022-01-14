@@ -1,4 +1,4 @@
-import LogoImg
+import LogoImg from '../../assets/logo.svg'
 
 function Header() {
   return (
