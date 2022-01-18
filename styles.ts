@@ -4,4 +4,4 @@ export const Container = styled.header`
   background: var(--blue);
 `;
 
-export const Cotent = styled.content;
+export const Cotent = styled.div``;
