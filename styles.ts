@@ -9,4 +9,5 @@ export const Content = styled.div`
   margin: 0 auto;
 
   padding: 0 1rem 10rem;
+  display: flex;
 `;
