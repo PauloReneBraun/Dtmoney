@@ -17,5 +17,6 @@ export const Content = styled.div`
     font-size: 1rem;
     color: #fff;
     background: var(--blue--light);
+    border: 0;
   }
 `;
