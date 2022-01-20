@@ -14,5 +14,7 @@ export const Content = styled.div`
   justify-content: space-between;
 
   button {
+    font-size: 1rem;
+    color: #fff;
   }
 `;
