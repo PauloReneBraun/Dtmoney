@@ -10,4 +10,5 @@ export const Content = styled.div`
 
   padding: 0 1rem 10rem;
   display: flex;
+  aling-items: center;
 `;
