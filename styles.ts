@@ -16,5 +16,6 @@ export const Content = styled.div`
   button {
     font-size: 1rem;
     color: #fff;
+    background: var(--blue--light);
   }
 `;
