@@ -1,5 +1,4 @@
 export function Dashboard() {
-  return (
-    
-  );
+  return;
+  <Container></Container>;
 }
